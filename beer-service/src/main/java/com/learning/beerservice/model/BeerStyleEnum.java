@@ -1,4 +1,4 @@
-package com.learning.model;
+package com.learning.beerservice.model;
 
 public enum BeerStyleEnum {
     LAGER, PILSNER, STOUT, GOSE, PORTER, ALE, WHEAT, IPA, PALE_ALE, SAISON

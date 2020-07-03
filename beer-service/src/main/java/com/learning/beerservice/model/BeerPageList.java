@@ -1,4 +1,4 @@
-package com.learning.model;
+package com.learning.beerservice.model;
 
 import org.springframework.data.domain.PageImpl;
 import org.springframework.data.domain.Pageable;
